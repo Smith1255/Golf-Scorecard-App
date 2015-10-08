@@ -1,3 +1,5 @@
+#Andrew Smith
+#May 10, 2015
 import pickle
 #Used for long term storage of data
 import time
